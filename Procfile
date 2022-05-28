@@ -1,1 +1,1 @@
-worker: yarn && npm start
+worker: npm i && npm start
